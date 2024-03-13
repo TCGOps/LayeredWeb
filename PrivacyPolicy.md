@@ -6,23 +6,17 @@ Layered (‘Layered, ‘we’ or ‘our’) understands the importance of keepin
 
 This privacy policy sets out how Layered collects, uses, manages and discloses personal information and how Layered aims to protect the privacy of your personal information.
 
-This policy applies to Layered Pty Limited.
+This policy applies to Layered Pty Limited. Layered may update this policy from time to time.
 
-A separate privacy policy applies to Layered Funds Management Pty Limited, 333 Capital Pty Limited, KM Develop Pty Limited and KM Property Funds Limited. Layered may update this policy from time to time.
-
-Layered may update this policy from time to time.
 Relevant legislation and personal information
 
 The following legislations and ancillary documents regulate how we can collect, store, manage, use, disclose and provide access to personal information in each country where we operate. These will be referred to collectively as ‘the relevant legislation’.
 Australia
 
-    Privacy Act 1988 (Cth) (‘Privacy Act’)
-    the relevant privacy principles under the Privacy Act
+    - Privacy Act 1988 (Cth) (‘Privacy Act’)
+    - the relevant privacy principles under the Privacy Act
 
 Information or an opinion, whether true or not and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
-
-In Indonesia, under the Personal Data Protection Law, No. 27 of 2022, personal information is classified into two categories. General personal data includes full name; gender; nationality; religion; marital status; and/or combined personal data to identify a person. Specific personal data means data and information regarding health; biometric data; genetic data; criminal records; data of children; personal financial data; and/or any other data in accordance with the relevant laws and regulations.
-Reasons for collecting personal information
 
 Layered collects personal information primarily for the purpose of providing our services and conducting our businesses. Any processing of personal data will be carried out only for lawful purposes. The duration of processing your personal data shall be the term of the services provided to you or for the duration of the engagement/agreement.
 
@@ -32,26 +26,26 @@ By providing us with this information, you consent to Layered using the informat
 
 Primary purposes where we may require your personal information:
 
-    comply with our obligations when appointed as external administrators to a corporation, individual or other entity under the Corporations Act or Bankruptcy Act in Australia or the Insolvency, Restructuring and Dissolution Act, the Companies Act or the Bankruptcy Act in Singapore
-    comply with our obligations when appointed as administrator to a class action
+    - comply with our obligations when appointed as external administrators to a corporation, individual or other entity under the Corporations Act or Bankruptcy Act in Australia or the Insolvency, Restructuring and Dissolution Act, the Companies Act or the Bankruptcy Act in Singapore
+    - comply with our obligations when appointed as administrator to a class action
     make a payment to you in relation to an external administration or class action
-    provide advice to you, an associated entity or a third party where your personal information is required to complete a component of the engagement
-    consider or enter into an employment application from you
-    consider procurement of services from you
-    provide you with access to our website and other online services
-    provide our publications to you
-    respond to queries you submit to us
-    provide you with information about our services that may be of interest to you
-    administer accounting, billing and other internal administrative services
-    comply with our legal requirements under any applicable laws, including anti-money laundering legislation and any other legal requirements with which we must comply.
+    - provide advice to you, an associated entity or a third party where your personal information is required to complete a component of the engagement
+    - consider or enter into an employment application from you
+    - consider procurement of services from you
+    - provide you with access to our website and other online services
+    - provide our publications to you
+    - respond to queries you submit to us
+    - provide you with information about our services that may be of interest to you
+    - administer accounting, billing and other internal administrative services
+    - comply with our legal requirements under any applicable laws, including anti-money laundering legislation and any other legal requirements with which we must comply.
 
 Layered will use the personal information for the primary purpose and potentially for a permissible secondary purpose.
 
 Where we will use your personal information for a permissible secondary purpose:
 
-    you have consented to that secondary purpose
-    it would be reasonably expected to be used for the secondary purpose
-    the secondary purpose is related to the primary purpose, or
+    - you have consented to that secondary purpose
+    - it would be reasonably expected to be used for the secondary purpose
+    - the secondary purpose is related to the primary purpose, or
     otherwise allowed by legislation.
 
 Personal information Layered collects
@@ -90,6 +84,7 @@ Retention periods:
 Candidates who do not progress to employment with Layered – if interviewed, 2 years from the end of the financial year in which the application was made. If not successful in reaching the interview stage, 1 year from the end of the financial year in which the application was made.
 
 Client contacts and subscribers to marketing materials – confirmation will be sought annually that your personal information is to be retained. If you request your personal information to be deleted via the email address, privacy@Layered.com, your email address will be retained to manage this request.
+
 Australia
 Financial Crime engagements – 7 years from date of final invoice
 
